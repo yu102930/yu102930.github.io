@@ -1,5 +1,19 @@
 * {
     margin: 0;
     padding: 0;
+    list-style: none;
     box-sizing: border-box;
+}
+
+img {
+    height: 100px;
+    width: 100px;
+}
+
+.img-start {
+   border: 2px solid red;
+}
+
+#img-master{
+    border: 3px dashed yellow;
 }
