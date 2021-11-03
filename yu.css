@@ -17,3 +17,16 @@ img {
 #img-master{
     border: 3px dashed yellow;
 }
+
+.relative{
+    margin-left: 35px;
+    background: red;
+    width: 500px;
+    height: 500px;
+}
+
+.absolute{
+    background: black;
+    width: 100px;
+    height: 100px;
+}
